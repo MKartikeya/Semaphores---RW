@@ -1,0 +1,15 @@
+Average wait time for Writer Thread 1 is 21 milli seconds
+Average wait time for Reader Thread 1 is 15 milli seconds
+Average wait time for Reader Thread 2 is 9 milli seconds
+Average wait time for Reader Thread 3 is 14 milli seconds
+Average wait time for Reader Thread 4 is 12 milli seconds
+Average wait time for Reader Thread 5 is 18 milli seconds
+Average wait time for Reader Thread 6 is 15 milli seconds
+Average wait time for Reader Thread 7 is 19 milli seconds
+Average wait time for Reader Thread 8 is 22 milli seconds
+Average wait time for Reader Thread 9 is 19 milli seconds
+Average wait time for Reader Thread 10 is 19 milli seconds
+Average waiting time of writers is 21 milli seconds
+Average waiting time of readers is 16 milli seconds
+Worst case waiting time of writers is 39 milli seconds
+Worst case waiting time of readers is 46 milli seconds

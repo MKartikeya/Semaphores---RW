@@ -1,0 +1,660 @@
+0th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+0th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+0th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+0th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+0th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+0th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+1th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+1th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+1th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+1th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+1th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+2th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+2th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+2th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+3th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+2th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+2th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+3th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+4th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+4th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+3th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+3th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+4th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+5th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+4th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+4th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+5th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+5th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+5th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+6th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+7th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+7th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+6th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+6th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 2 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 4 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+8th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 10 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 1 at Mon Mar 18 20:35:07 2024
+
+7th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 9 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 6 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+9th CS entry by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS exit by Writer Thread 1 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+8th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 5 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 7 at Mon Mar 18 20:35:07 2024
+
+8th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS request by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS Entry by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 3 at Mon Mar 18 20:35:07 2024
+
+9th CS Exit by Reader Thread 8 at Mon Mar 18 20:35:07 2024
+
